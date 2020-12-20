@@ -123,6 +123,8 @@ if __name__ == '__main__':
                         verbose_eval = 50, #Tell us how the training is doing every 50 rounds.
                         )
 
+    #Save the model we just trained
+    trial_reg.save_model('LightGBM_Model')
 
     ###Performance Metrics & Logging to Neptune.ai###
     test_pred = trial_reg.predict(X_test)
