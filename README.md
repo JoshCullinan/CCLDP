@@ -15,3 +15,5 @@ to install the dependencies to your environment.
 Or
 
 Install the dependencies in a venv/conda/poetry.
+
+Unzip the data (X and y) into the same directory as the Code_submission.py file (Data available upon request).
