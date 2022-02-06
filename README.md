@@ -1,6 +1,6 @@
 # CCLDP
 Cancer Cell Line Drug Prediction using LightGBM.
-Based on a paper written by Joshua Cullinan 
+Honours degree project by Josh Cullinan
 
 
 # Instructions for running
